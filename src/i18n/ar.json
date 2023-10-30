@@ -1,0 +1,96 @@
+{
+  "home": {
+    "title": "وطن",
+    "welcome": "أهلًا وسهلًا"
+  },
+  "error": {
+    "responseError": "حدث شيء غريب!",
+    "requestError": "خطأ شبكة تالفة!",
+    "defaultError": "شيء ما حصل!",
+    "alertTitle": "حدث خطأ"
+  },
+  "profile": {
+    "name": "نافين ج.",
+    "location": "سان فرانسيسكو، كاليفورنيا",
+    "shareYourExperiences": "شارك تجاربك",
+    "doYouRecommendThisBusiness": "هل تنصح بهذا العمل؟",
+    "seeMore": "شاهد المزيد",
+    "myImpact": {
+      "myImpact": "تأثير بلدي",
+      "reviews": "ملاحظات",
+      "photos": "الصور",
+      "votesAllTime": "الأصوات في كل وقت",
+      "likesAllTime": "يحب كل الوقت",
+      "viewsLast90Days": "المشاهدات آخر 90 يوم",
+      "reviewsHelperText": "يبدو أنه لا يوجد أي تصويت لمراجعاتك حتى الآن.",
+      "photosHelperText": "لا توجد تعليقات على الصور حتى الآن ، ولكن استمر في تحميل تلك الصور الرائعة ومن المؤكد أن Yelpers ستلاحظ!",
+      "photosButtonText": "إضافة صورة",
+      "reviewsButtonText": "كتابة مراجعة"
+    }
+  },
+  "input": {
+    "default_error": "حدث خطأ!"
+  },
+  "searchbar": {
+    "placeholder": "ابحث عن برجر ، توصيل ، حلاق .."
+  },
+  "categories": {
+    "More": "أكثر"
+  },
+  "experienceBtns": {
+    "yes": "نعم",
+    "no": "لا",
+    "mayBe": "ربما"
+  },
+  "photoUpload": {
+    "title": "خطأ في تحميل الصور",
+    "description": "جرب بعد بعض الوقت"
+  },
+  "uploadTypes": {
+    "useCamera": "استخدم الكاميرا",
+    "useStorage": "استخدم التخزين"
+  },
+  "permissionService": {
+    "noPermission": "لا إذن",
+    "blocked": "مسدود",
+    "blockedPermission": "إذن محظور. حاول التمكين من الإعدادات",
+    "goToSettings": "اذهب للاعدادات",
+    "cancel": "إلغاء الأمر",
+    "tryEnablingFromSettings": "لا إذن. حاول التمكين من الإعدادات",
+    "notAvailable": "غير متوفر",
+    "denied": "نفي",
+    "deniedDescription": "تم رفض الإذن! جرب التمكين من الإعدادات",
+    "invalidPermission": "إذن غير صالح"
+  },
+  "loginScreen": {
+    "loginToYelp": "تسجيل الدخول إلى Yelp",
+    "subText": "من خلال المتابعة ، فإنك توافق على شروط خدمة Yelp وتقر بسياسة خصوصية Yelp."
+  },
+  "errorViewText": {
+    "categories": "لا يمكن تحميل الفئات الآن",
+    "events": "لا يمكن تحميل الأحداث الآن",
+    "retry": "أعد المحاولة"
+  },
+  "contactUs": {
+    "queryError": "لا يمكن أن يكون الاستعلام فارغا.",
+    "submit": "إرسال",
+    "successAlertTitle": "أثير الاستعلام!",
+    "successAlertDescription": "سوف نعود اليكم قريبا.",
+    "errorAlertTitle": "حدث خطأ ما!",
+    "errorAlertDescription": "حاول مرة أخرى بعد وقت ما",
+    "nameErrorMessage": "يجب ألا يقل طول الاسم عن 8 أحرف ويجب أن يكون مزيجا من الأرقام والحروف.",
+    "ageErrorMessage": "يجب أن يكون العمر بين 18 و 100",
+    "emailErrorMessage": "عنوان البريد الإلكتروني غير صالح",
+    "phoneErrorMessage": "رقم الهاتف غير صالح",
+    "countryCodeErrorMessage": "رمز البلد غير صالح",
+    "dateErrorMessage": "تاريخ غير صالح",
+    "phoneHintMessage": "يرجى تجنب رموز الدول والأحرف الخاصة.",
+    "nameFieldLabel": "اسم",
+    "ageFieldLabel": "عمر",
+    "emailFieldLabel": "البريد الإلكتروني",
+    "phoneFieldLabel": "رقم الهاتف",
+    "queryFieldLabel": "استفسار",
+    "birthdateLabel": "تاريخ الميلاد",
+    "requiredField": "يتطلب حقلا"
+  }
+}

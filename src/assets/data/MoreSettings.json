@@ -1,0 +1,74 @@
+[
+  {
+    "id": "preferences",
+    "label": {
+      "en": "Your Preferences",
+      "ar": "تفضيلاتك"
+    },
+    "icon": "heart"
+  },
+  {
+    "id": "checkin",
+    "label": {
+      "en": "Check-Ins",
+      "ar": "تسجيلات الوصول"
+    },
+    "icon": "checkmark-circle-sharp"
+  },
+  {
+    "id": "addBusiness",
+    "label": {
+      "en": "Added businesses",
+      "ar": "الشركات المضافة"
+    },
+    "icon": "business-sharp"
+  },
+  {
+    "id": "messages",
+    "label": {
+      "en": "Messages",
+      "ar": "رسائل"
+    },
+    "icon": "mail-sharp"
+  },
+  {
+    "id": "activity",
+    "label": {
+      "en": "My Activity",
+      "ar": "نشاطي"
+    },
+    "icon": "pulse"
+  },
+  {
+    "id": "reservations",
+    "label": {
+      "en": "Reservations",
+      "ar": "التحفظات"
+    },
+    "icon": "calendar"
+  },
+  {
+    "id": "more",
+    "label": {
+      "en": "More About You",
+      "ar": "المزيد عنك"
+    },
+    "icon": "person-circle-outline"
+  },
+  {
+    "id": "contactus",
+    "label": {
+      "en": "Contact Us",
+      "ar": "اتصل بنا"
+    },
+    "icon": "call"
+  },
+  {
+    "id": "logout",
+    "label": {
+      "en": "Logout",
+      "ar": "تسجيل خروج"
+    },
+    "icon": "exit"
+  }
+]
