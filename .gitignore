@@ -22,6 +22,9 @@ DerivedData
 *.xcuserstate
 ios/.xcode.env.local
 
+
+.vscode
+
 # react-native-config codegen
 ios/tmp.xcconfig
 
