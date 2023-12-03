@@ -3,13 +3,13 @@ import {EventInterface} from '../../models';
 import {AllEvents, EventsSortBy, EventsSortOn} from './EventsService.types';
 
 function getAllEvents(
-  location: string = 'Texas',
+  location: string = 'Chicago',
   limit: number = 10,
   isFree: boolean = true,
   showError: boolean = true,
   offset: number = 10,
   sortOn: EventsSortOn = EventsSortOn.Populariy,
-  sortBy: EventsSortBy = EventsSortBy.Ascending,
+  sortBy: EventsSortBy = EventsSortBy.Descending,
 ) {
   return Api<AllEvents>(
     {

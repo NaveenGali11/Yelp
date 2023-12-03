@@ -220,6 +220,12 @@ const HomeScreen = observer((_props: HomeScreenProps) => {
             textStyle={{
               color: colors.text,
             }}
+            description={e.description}
+            attending_count={e.attending_count}
+            category={e.category}
+            cost={e.cost ?? 0}
+            is_free={e.is_free}
+            is_official={e.is_official}
           />
         );
       });
